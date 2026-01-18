@@ -1,9 +1,9 @@
-# ml-python-task
+# Machine Learning-task
 Task management app
-# SlashMark ML with Python Internship Task
+# SlashMark Machine Learning Internship Task
 
 ## 📌 Description
-This repository contains the solution for the SlashMark ML with Python internship task.
+This repository contains the solution for the SlashMark Machine Learning internship task.
 
 ## 📂 Files Included
 - `main.py` – Python script for task implementation
