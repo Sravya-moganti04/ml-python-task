@@ -15,3 +15,10 @@ This repository contains the solution for the SlashMark ML with Python internshi
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+2. Run the Python file:
+   python main.py
+   🧠Technologies used
+      - Pyhton
+      - Machine Learning
+      - Pandas
+      - Numpy
